@@ -9,6 +9,7 @@ The repository contains all code based on an XXX architecture with NodeJS, Types
 * NodeJS
 * Typescript
 * Express
+* ESLint
 * XXX Architecture
 * Good practices
 
